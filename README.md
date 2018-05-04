@@ -1,2 +1,1 @@
-# ds
-data science homework
+# data science homework files
